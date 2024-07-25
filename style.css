@@ -9,6 +9,11 @@ html{
   padding: 0;
   box-sizing: inherit;
 }
+
+body{
+  background-color: rgb(2, 2, 103);
+}
+
 .calculator{
   background-color: rgb(39, 18, 59);
   border: 1px solid #ccc;
